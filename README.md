@@ -180,7 +180,7 @@ Team showcase, AI code helper, & dev chatroom.
 
   <!-- Top Languages -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vortex-16&layout=compact&hide_border=true&bg_color=000000&title_color=00e7ff&text_color=ffffff&icon_color=00e7ff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vortex-16&layout=compact&hide_border=true&bg_color=000000&title_color=00e7ff&text_color=ffffff&icon_color=00e7ff&rand=20250829">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vortex-16&layout=compact&theme=default&hide_border=true">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vortex-16&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </picture>
