@@ -206,23 +206,6 @@ Team showcase, AI code helper, & dev chatroom.
 
 ---
 
-### 👥 Alpha Coders Team
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <a href="https://github.com/Dealer-09" target="_blank">
-    <img src="https://img.shields.io/badge/Archisman_Pal-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://github.com/Vortex-16" target="_blank">
-    <img src="https://img.shields.io/badge/Vikash_Gupta-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://github.com/Rouvik" target="_blank">
-    <img src="https://img.shields.io/badge/Rouvik_Maji-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://github.com/PixelPioneer404" target="_blank">
-    <img src="https://img.shields.io/badge/Rajbeer_Saha-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</div>
-
 📧 **Team Contact:** [alpha4coders@gmail.com](mailto:alpha4coders@gmail.com)  
 📸 [Instagram – @alphacodersstcet](https://www.instagram.com/alphacodersstcet/)
 
@@ -230,13 +213,7 @@ Team showcase, AI code helper, & dev chatroom.
 
 ### 🐍 Contribution Snake
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vortex-16/Vortex-16/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vortex-16/Vortex-16/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/Vortex-16/Vortex-16/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
+![Animated GitHub Contribution Snake](https://Vortex-16.github.io/Vortex-16/github-contribution-grid-snake-dark.svg)
 
 [![Vikas’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Vortex-16&theme=transparent&show_icons=true&text_bold=false&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 ---
