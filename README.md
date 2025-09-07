@@ -238,7 +238,7 @@ Team showcase, AI code helper, & dev chatroom.
   </picture>
 </div>
 
-
+[![Vikas’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Vortex-16&theme=transparent&show_icons=true&text_bold=false&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 <div align="center">
