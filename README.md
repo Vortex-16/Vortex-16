@@ -213,7 +213,6 @@ Team showcase, AI code helper, & dev chatroom.
 
 ### 🐍 Contribution Snake
 
-![Vikash][Animated GitHub Contribution Snake](https://Vortex-16.github.io/Vortex-16/github-contribution-grid-snake-dark.svg)
 
 [![Vikas’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Vortex-16&theme=transparent&show_icons=true&text_bold=false&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 ---
