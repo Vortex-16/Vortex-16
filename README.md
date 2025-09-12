@@ -212,7 +212,15 @@ Team showcase, AI code helper, & dev chatroom.
 ---
 
 ### 🐍 Contribution Snake
-
+<div align="center">
+  <a href="https://github.com/Platane/snk">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vortex-16/Vortex-16/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vortex-16/Vortex-16/output/github-snake.svg" />
+      <img width="100%" alt="GitHub Snake Contribution Animation" src="https://raw.githubusercontent.com/Vortex-16/Vortex-16/output/github-snake-dark.svg" />
+    </picture>
+  </a>
+</div>
 
 [![Vikas’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Vortex-16&theme=transparent&show_icons=true&text_bold=false&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 ---
