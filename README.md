@@ -28,21 +28,37 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
 
 ## 🧠 Notable Builds
 
-### 🌾 Pragati Path  
-AI crop advisor with image disease detection & multilingual chatbot.  
-![TensorFlow.js](https://img.shields.io/badge/TF.js-orange?logo=tensorflow&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini-API-4285F4?logo=google&logoColor=white)
+<details>
+  <summary>🌾 Pragati Path</summary>
+  
+  AI crop advisor with image disease detection & multilingual chatbot.  
+  ![TensorFlow.js](https://img.shields.io/badge/TF.js-orange?logo=tensorflow&logoColor=white) 
+  ![Gemini API](https://img.shields.io/badge/Gemini-API-4285F4?logo=google&logoColor=white)
+</details>
 
-### 💥 Código / CodeBattle  
-Live 1v1 code duel platform with real-time leaderboard & AI hints.  
-![Socket.IO](https://img.shields.io/badge/Socket.IO-black?logo=socketdotio&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+<details>
+  <summary>💥 Código / CodeBattle</summary>
+  
+  Live 1v1 code duel platform with real-time leaderboard & AI hints.  
+  ![Socket.IO](https://img.shields.io/badge/Socket.IO-black?logo=socketdotio&logoColor=white) 
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+</details>
 
-### 🤝 Alpha Chat  
-Live chat for devs with code snippet sharing + filters.  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+<details>
+  <summary>🤝 Alpha Chat</summary>
+  
+  Live chat for devs with code snippet sharing + filters.  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) 
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+</details>
 
-### 👥 Alpha Coders  
-Team showcase, AI code helper, & dev chatroom.  
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+<details>
+  <summary>👥 Alpha Coders</summary>
+  
+  Team showcase, AI code helper, & dev chatroom.  
+  ![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white) 
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+</details>
 
 ---
 
@@ -50,7 +66,6 @@ Team showcase, AI code helper, & dev chatroom.
 - 🗃️ **Total Repositories:** 🔓26 Public, 🔒13 Private  
 - 🚀 Always exploring new projects and pushing code!
 
----
 
 ## 🏆 Hackathon Achievements  
 
@@ -68,24 +83,12 @@ Team showcase, AI code helper, & dev chatroom.
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-#### 🎨 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
 
-#### 🛠️ Backend & Tools
+#### Dev !!
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/MERN-Stack-0A0A0A?style=for-the-badge&logoColor=white" alt="MERN Stack" />
 </p>
 
 #### ☁️ Deployment
@@ -98,23 +101,33 @@ Team showcase, AI code helper, & dev chatroom.
 
 ### 📜 Certifications
 
-<div align="center">
-  <a href="https://www.sololearn.com/certificates/CC-5FGBA17C" target="_blank">
-    <img src="https://img.shields.io/badge/Java-Certified-orange?style=for-the-badge&logo=java">
-  </a>
-  <a href="https://www.sololearn.com/certificates/CC-DNE7TQVC" target="_blank">
-    <img src="https://img.shields.io/badge/C++-Certified-blue?style=for-the-badge&logo=c%2B%2B">
-  </a>
-  <a href="https://api2.sololearn.com/v2/certificates/CC-WE3LZMJN/image/png?t=638778043204501570" target="_blank">
-    <img src="https://img.shields.io/badge/C-Certified-9cf?style=for-the-badge&logo=c">
-  </a>
-  <a href="https://freecodecamp.org/certification/VikashKumarGupta/responsive-web-design" target="_blank">
-    <img src="https://img.shields.io/badge/Web_Design-Certified-ff69b4?style=for-the-badge&logo=freecodecamp">
-  </a>
-  <a href="https://www.freecodecamp.org/certification/vikashkumargupta/javascript-algorithms-and-data-structures-v8" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript_Algorithms_&_DS-Certified-yellow?style=for-the-badge&logo=javascript">
-  </a>
-</div>
+<details>
+  <summary>🎓 View Certifications</summary>
+  <div align="center">
+    <a href="https://www.sololearn.com/certificates/CC-5FGBA17C" target="_blank">
+      <img src="https://img.shields.io/badge/Java-Certified-orange?style=for-the-badge&logo=java" alt="Java Certificate">
+    </a>
+    <a href="https://www.sololearn.com/certificates/CC-DNE7TQVC" target="_blank">
+      <img src="https://img.shields.io/badge/C++-Certified-blue?style=for-the-badge&logo=c%2B%2B" alt="C++ Certificate">
+    </a>
+    <a href="https://api2.sololearn.com/v2/certificates/CC-WE3LZMJN/image/png?t=638778043204501570" target="_blank">
+      <img src="https://img.shields.io/badge/C-Certified-9cf?style=for-the-badge&logo=c" alt="C Certificate">
+    </a>
+    <a href="https://freecodecamp.org/certification/VikashKumarGupta/responsive-web-design" target="_blank">
+      <img src="https://img.shields.io/badge/Web_Design-Certified-ff69b4?style=for-the-badge&logo=freecodecamp" alt="Web Design Certificate">
+    </a>
+    <a href="https://www.freecodecamp.org/certification/vikashkumargupta/javascript-algorithms-and-data-structures-v8" target="_blank">
+      <img src="https://img.shields.io/badge/JavaScript_Algorithms_&_DS-Certified-yellow?style=for-the-badge&logo=javascript" alt="JS Algorithms Certificate">
+    </a>
+    <a href="https://drive.google.com/file/d/1p_K90Jp9vyuogyGRcvdm_Uz7kk4FGlbl/view" target="_blank">
+      <img src="https://img.shields.io/badge/IIT%20KGP-Web_Dev_Summer_Camp-blue?style=for-the-badge" alt="IIT KGP Web Dev Summer Camp">
+    </a>
+    <a href="https://certificate.hack2skill.com/user/aidayideasubmission/2025H2S06AID-I11008" target="_blank">
+      <img src="https://img.shields.io/badge/Hack2Skill-Certificate-00BFFF?style=for-the-badge" alt="Hack2Skill Certificate">
+    </a>
+  </div>
+</details>
+
 
 ---
 
