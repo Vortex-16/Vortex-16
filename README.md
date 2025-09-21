@@ -12,10 +12,12 @@
 
 I'm a passionate second-year Computer Science student from West Bengal, India, specializing in front-end web development and UI design. I love creating beautiful, functional interfaces and contributing to open-source projects.
 
-- 🌱 Currently mastering: **Node.js, JavaScript, and Express.js**
-- 💡 Interests: **Web Development, Open Source, Competitive Programming**
+- 🌱 Currently mastering: **BlockChain !!**
+- 💡 Interests: **Operating System, Open Source, Competitive Programming**
 - 🎯 Goals: **Build impactful projects and collaborate with developers worldwide**
 - ⚡ Fun fact: **I enjoy bowling and often use it as a metaphor for coding - aim, adjust, and strike!**
+- Current OS: ![Ubuntu](.github/assets/Ubuntu.png)
+<video controls src=".github/assets/chill-mario-pixel-moewalls-com.mp4" title="Hi"></video>
 
 ---
 
