@@ -16,6 +16,11 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
 - 💡 Interests: **Operating System, Open Source, Competitive Programming**
 - 🎯 Goals: **Build impactful projects and collaborate with developers worldwide**
 - ⚡ Fun fact: **I enjoy bowling and often use it as a metaphor for coding - aim, adjust, and strike!**
+<div style="float: right; width: 220px; margin-left: 20px;">
+  <video src=".github/assets/chill-mario-pixel-moewalls-com.mp4" width="200" height="120" controls loop muted poster="">
+    Your browser does not support the video tag.
+  </video>
+</div>
 <details>
   <summary>Current OS</summary>
 
