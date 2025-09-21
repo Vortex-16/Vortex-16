@@ -16,8 +16,14 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
 - 💡 Interests: **Operating System, Open Source, Competitive Programming**
 - 🎯 Goals: **Build impactful projects and collaborate with developers worldwide**
 - ⚡ Fun fact: **I enjoy bowling and often use it as a metaphor for coding - aim, adjust, and strike!**
-- Current OS: ![Ubuntu](.github/assets/Ubuntu.png)
-![Windows](.github/assets/Windows.png)
+<details>
+  <summary>Current OS</summary>
+
+  ![Ubuntu](.github/assets/Ubuntu.png)  
+  ![Windows](.github/assets/Windows.png)
+
+</details>
+
 
 ---
 
