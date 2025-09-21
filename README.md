@@ -19,8 +19,20 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
 <details>
   <summary>Current OS</summary>
 
-  ![Ubuntu](.github/assets/Ubuntu.png)  
+  <details>
+  <summary>Ubuntu</summary>
+
+  ![Ubuntu](.github/assets/Ubuntu.png)
+
+</details>
+
+<details>
+  <summary>Windows</summary>
+
   ![Windows](.github/assets/Windows.png)
+
+</details>
+
 
 </details>
 
