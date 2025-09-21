@@ -12,13 +12,15 @@
 
 I'm a passionate second-year Computer Science student from West Bengal, India, specializing in front-end web development and UI design. I love creating beautiful, functional interfaces and contributing to open-source projects.
 
-- 🌱 Currently mastering: **BlockChain !!**
-- 💡 Interests: **Operating System, Open Source, Competitive Programming**
-- 🎯 Goals: **Build impactful projects and collaborate with developers worldwide**
-- ⚡ Fun fact: **I enjoy bowling and often use it as a metaphor for coding - aim, adjust, and strike!**
 <div style="float: right; width: 220px; margin-left: 20px;">
   <img src=".github/assets/chill-mario.gif" width="200" height="120" alt="Chill Mario" />
 </div>
+
+- 🌱 Currently mastering: **BlockChain !!**  
+- 💡 Interests: **Operating System, Open Source, Competitive Programming**  
+- 🎯 Goals: **Build impactful projects and collaborate with developers worldwide**  
+- ⚡ Fun fact: **I enjoy bowling and often use it as a metaphor for coding - aim, adjust, and strike!**
+
 
 <details>
   <summary>Current OS</summary>
