@@ -14,7 +14,9 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
 
 | About Me |  |
 |----------|--|
-| - 🌱 Currently mastering: **BlockChain !!** <br> - 💡 Interests: **Operating System** <br> - 🎯 Goals: **Build impactful projects and collaborate with developers worldwide** <br> - ⚡ Fun fact: **I enjoy bowling and often use it as a metaphor for coding - aim, adjust, and strike!** <br> - 🥇 **CodeFlow 2K25** ![badge](https://img.shields.io/badge/Winner-🥇-yellow) <br> - 🌐 **Projects** blending software & AI ![badge](https://img.shields.io/badge/Projects-15+-blue) <br> - 🗃️ **Total Repositories:** 🔓31 Public, 🔒14 Private   | <img src=".github/assets/chill-mario.gif" width="350" height="240" alt="Chill Mario" /> |
+| - 🌱 Currently mastering: **BlockChain !!** <br> - 💡 Interests: **Operating System** <br> - 🎯 Goals: **Build impactful projects and collaborate with developers worldwide** <br> - ⚡ Fun fact: **I enjoy bowling and often use it as a metaphor for coding - aim, adjust, and strike!** <br> - 🥇 **CodeFlow 2K25** ![badge](https://img.shields.io/badge/Winner-🥇-yellow)  
+[View Certificate](https://certopus.com/c/b3ad40bfbc0e487fa38d85e63f1a6a1d)
+ <br> - 🌐 **Projects** blending software & AI ![badge](https://img.shields.io/badge/Projects-15+-blue) <br> - 🗃️ **Total Repositories:** 🔓31 Public, 🔒14 Private   | <img src=".github/assets/chill-mario.gif" width="350" height="240" alt="Chill Mario" /> |
 
 
 
@@ -79,20 +81,16 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
 
 ---
 
-## 📊 Repository Stats
-- 🗃️ **Total Repositories:** 🔓31 Public, 🔒14 Private  
-- 🚀 Always exploring new projects and pushing code!
 
-
-## 🏆 Hackathon Achievements  
+<!-- ## 🏆 Hackathon Achievements  
 
 <div align="center">
   <a href="https://certopus.com/c/b3ad40bfbc0e487fa38d85e63f1a6a1d" target="_blank">
     <img src="https://img.shields.io/badge/CodeFlow_2K25-Hackathon_Winner-brightgreen?style=for-the-badge&logo=hackclub&logoColor=white" />
   </a>
-</div>
+</div> -->
 
----
+<!-- --- -->
 
 ### 🛠️ Tech Stack
 
