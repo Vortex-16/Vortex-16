@@ -28,6 +28,7 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
 
 ## 🧠 Notable Builds
 
+<summary>
 <details>
   <summary>🌾 Pragati Path</summary>
   
@@ -59,11 +60,12 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
   ![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white) 
   ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 </details>
+</summary>
 
 ---
 
 ## 📊 Repository Stats
-- 🗃️ **Total Repositories:** 🔓26 Public, 🔒13 Private  
+- 🗃️ **Total Repositories:** 🔓31 Public, 🔒14 Private  
 - 🚀 Always exploring new projects and pushing code!
 
 
