@@ -12,10 +12,23 @@
 
 I'm a passionate second-year Computer Science student from West Bengal, India, specializing in front-end web development and UI design. I love creating beautiful, functional interfaces and contributing to open-source projects.
 
-| About Me |  |
-|----------|--|
-| - 🌱 Currently mastering: **BlockChain !!** <br> - 💡 Interests: **Operating System** <br> - 🎯 Goals: **Build impactful projects and collaborate with developers worldwide** <br> - ⚡ Fun fact: **I enjoy bowling and often use it as a metaphor for coding - aim, adjust, and strike!** <br> - 🥇 **CodeFlow 2K25** [![Winner](https://img.shields.io/badge/Winner-🥇-yellow)](https://certopus.com/c/b3ad40bfbc0e487fa38d85e63f1a6a1d)
-  - 🌐 **Projects** blending software & AI ![badge](https://img.shields.io/badge/Projects-15+-blue) <br> - 🗃️ **Total Repositories:** 🔓31 Public, 🔒14 Private   | <img src=".github/assets/chill-mario.gif" width="350" height="240" alt="Chill Mario" /> |
+<table>
+<tr>
+<td>
+- 🌱 Currently mastering: <b>BlockChain !!</b><br>
+- 💡 Interests: <b>Operating System</b><br>
+- 🎯 Goals: <b>Build impactful projects and collaborate with developers worldwide</b><br>
+- ⚡ Fun fact: <b>I enjoy bowling and often use it as a metaphor for coding - aim, adjust, and strike!</b><br>
+- 🥇 <b>CodeFlow 2K25</b> <a href="https://certopus.com/c/b3ad40bfbc0e487fa38d85e63f1a6a1d"><img src="https://img.shields.io/badge/Winner-🥇-yellow" alt="Winner"></a><br>
+- 🌐 Projects blending software & AI <img src="https://img.shields.io/badge/Projects-15+-blue" alt="Projects"><br>
+- 🗃️ Total Repositories: 🔓31 Public, 🔒14 Private
+</td>
+<td>
+<img src=".github/assets/chill-mario.gif" width="350" height="240" alt="Chill Mario">
+</td>
+</tr>
+</table>
+
 
 
 
