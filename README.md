@@ -14,7 +14,7 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
 
 | About Me |  |
 |----------|--|
-| - 🌱 Currently mastering: **BlockChain !!** <br> - 💡 Interests: **Operating System** <br> - 🎯 Goals: **Build impactful projects and collaborate with developers worldwide** <br> - ⚡ Fun fact: **I enjoy bowling and often use it as a metaphor for coding - aim, adjust, and strike!** | <img src=".github/assets/chill-mario.gif" width="350" height="240" alt="Chill Mario" /> |
+| - 🌱 Currently mastering: **BlockChain !!** <br> - 💡 Interests: **Operating System** <br> - 🎯 Goals: **Build impactful projects and collaborate with developers worldwide** <br> - ⚡ Fun fact: **I enjoy bowling and often use it as a metaphor for coding - aim, adjust, and strike!** <br> - 🥇 **CodeFlow 2K25** ![badge](https://img.shields.io/badge/Winner-🥇-yellow) <br> - 🌐 **Projects** blending software & AI ![badge](https://img.shields.io/badge/Projects-15+-blue) | <img src=".github/assets/chill-mario.gif" width="350" height="240" alt="Chill Mario" /> |
 
 
 
