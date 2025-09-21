@@ -17,7 +17,7 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
 - 🎯 Goals: **Build impactful projects and collaborate with developers worldwide**
 - ⚡ Fun fact: **I enjoy bowling and often use it as a metaphor for coding - aim, adjust, and strike!**
 - Current OS: ![Ubuntu](.github/assets/Ubuntu.png)
-<video controls src=".github/assets/chill-mario-pixel-moewalls-com.mp4" title="Hi"></video>
+![Windows](.github/assets/Windows.png)
 
 ---
 
