@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate second-year Computer Science student from West Bengal, India, specializing in Backend development and UI design. I love creating beautiful, functional interfaces and contributing to open-source projects.
+I'm a passionate second-year Computer Science student from West Bengal, India, specializing in Blockchain development and UI design. I love creating beautiful, functional interfaces and contributing to open-source projects.
 
 <table>
 <tr>
