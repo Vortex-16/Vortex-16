@@ -250,6 +250,38 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
 
 ---
 
+---
+
+### 🌐 GDG on Campus — STCET
+
+<div align="center" style="background-color:#000; border-radius:15px; padding:25px; box-shadow:0 0 20px #A6FF16;">
+
+  <!-- Animated GDG Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=A6FF16&center=true&vCenter=true&width=600&lines=🌍+GDG+on+Campus+—+STCET;Exploring+Operating+Systems+and+Cloud+Innovation" alt="GDG Typing Animation" />
+
+  <br/>
+
+  <!-- GDG Badge Embed -->
+  <div 
+    data-iframe-width="150" 
+    data-iframe-height="270" 
+    data-share-badge-id="0b8c67f8-b9f3-4eb0-8246-c41b3dbb374d" 
+    data-share-badge-host="https://www.credly.com">
+  </div>
+  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+  <br/>
+
+  <p style="color:white; font-size:16px;">
+    Proud <b>GDG on Campus - STCET</b> Member 🎯 <br/>
+    Focused on <b>Operating Systems</b> & <b>Cloud Technologies</b> ☁️<br/>
+    Contributing to community learning, collaboration, and real-world innovation.
+  </p>
+
+</div>
+
+---
+
 📧 **Team Contact:** [alpha4coders@gmail.com](mailto:alpha4coders@gmail.com)  
 📸 [Instagram – @alphacodersstcet](https://www.instagram.com/alphacodersstcet/)
 
