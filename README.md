@@ -250,35 +250,22 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
 
 ---
 
+
 ---
 
 ### 🌐 GDG on Campus — STCET
 
-<div align="center" style="background-color:#000; border-radius:15px; padding:25px; box-shadow:0 0 20px #A6FF16;">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=A6FF16&width=640&lines=🌍+GDG+on+Campus+—+STCET;Operating+Systems+%26+Cloud+Engineering" alt="GDG Typing" />
+</p>
 
-  <!-- Animated GDG Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=A6FF16&center=true&vCenter=true&width=600&lines=🌍+GDG+on+Campus+—+STCET;Exploring+Operating+Systems+and+Cloud+Innovation" alt="GDG Typing Animation" />
+<p align="center">
+  [![GDG on Campus — STCET](.github/assets/GDG1.png)](https://www.credly.com/badges/0b8c67f8-b9f3-4eb0-8246-c41b3dbb374d)
+</p>
 
-  <br/>
+<p align="center"><small><b>Focused:</b> Operating Systems & Cloud</small></p>
 
-  <!-- GDG Badge Embed -->
-  <div 
-    data-iframe-width="150" 
-    data-iframe-height="270" 
-    data-share-badge-id="0b8c67f8-b9f3-4eb0-8246-c41b3dbb374d" 
-    data-share-badge-host="https://www.credly.com">
-  </div>
-  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-  <br/>
-
-  <p style="color:white; font-size:16px;">
-    Proud <b>GDG on Campus - STCET</b> Member 🎯 <br/>
-    Focused on <b>Operating Systems</b> & <b>Cloud Technologies</b> ☁️<br/>
-    Contributing to community learning, collaboration, and real-world innovation.
-  </p>
-
-</div>
+---
 
 ---
 
