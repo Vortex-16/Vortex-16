@@ -259,11 +259,15 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=A6FF16&width=640&lines=🌍+GDG+on+Campus+—+STCET;Operating+Systems+%26+Cloud+Engineering" alt="GDG Typing" />
 </p>
 
+<details>
+<summary>Basic on Google Cloud</summary>
 <p align="center">
   <a href="https://www.credly.com/badges/0b8c67f8-b9f3-4eb0-8246-c41b3dbb374d">
-    <img src=".github/assets/GDG1.png" alt="GDG on Campus — STCET" />
+    <img src=".github/assets/GDG1.png" alt="GDG on Campus — STCET" width="400"/>
   </a>
 </p>
+</details>
+
 
 <p align="center"><small><b>Focused:</b> Operating Systems & Cloud</small></p>
 
