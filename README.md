@@ -263,7 +263,7 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
 <summary>Basic on Google Cloud</summary>
 <p align="center">
   <a href="https://www.credly.com/badges/0b8c67f8-b9f3-4eb0-8246-c41b3dbb374d">
-    <img src=".github/assets/GDG1.png" alt="GDG on Campus — STCET" width="400"/>
+    <img src=".github/assets/GDG1.png" alt="GDG on Campus — STCET" height="200"/>
   </a>
 </p>
 </details>
