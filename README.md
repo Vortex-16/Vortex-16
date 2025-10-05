@@ -260,7 +260,9 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
 </p>
 
 <p align="center">
-  [![GDG on Campus — STCET](.github/assets/GDG1.png)](https://www.credly.com/badges/0b8c67f8-b9f3-4eb0-8246-c41b3dbb374d)
+  <a href="https://www.credly.com/badges/0b8c67f8-b9f3-4eb0-8246-c41b3dbb374d">
+    <img src=".github/assets/GDG1.png" alt="GDG on Campus — STCET" />
+  </a>
 </p>
 
 <p align="center"><small><b>Focused:</b> Operating Systems & Cloud</small></p>
