@@ -293,6 +293,14 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
 </p>
 </details>
 
+<details>
+<summary>Smart Analytics</summary>
+<p align="center">
+  <a href="https://www.credly.com/badges/0f83aae3-d566-451f-90d6-a0aeaec5e83a/public_url">
+    <img src=".github/assets/SA.png" alt="GDG on Campus — STCET" />
+  </a>
+</p>
+</details>
 
 <p align="center"><small><b>Focused:</b> Operating Systems & Cloud</small></p>
 
