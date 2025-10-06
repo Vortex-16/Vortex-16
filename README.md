@@ -284,6 +284,14 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
 </p>
 </details>
 
+<details>
+<summary>Application Modernization</summary>
+<p align="center">
+  <a href="https://www.credly.com/badges/caf4bd19-f1d8-47bc-b2fc-132d6c66c688/public_url">
+    <img src=".github/assets/AM.png" alt="GDG on Campus — STCET" />
+  </a>
+</p>
+</details>
 
 
 <p align="center"><small><b>Focused:</b> Operating Systems & Cloud</small></p>
