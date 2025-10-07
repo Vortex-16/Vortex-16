@@ -300,7 +300,7 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
   </a>
 </p>
 </details>
-https://www.credly.com/badges/2de22f39-a93a-4628-9f2b-1b9c2eaa0851/linked_in_profile
+
 
 <details>
 <summary>Smart Analytics</summary>
