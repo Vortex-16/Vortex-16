@@ -341,4 +341,4 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
 </div>
 
 
-#### Dealing With SIH 
+#### Dealing With SIH: Alpha 6X : Submitted 2 PS.
