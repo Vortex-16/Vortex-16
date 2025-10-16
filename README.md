@@ -38,6 +38,12 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
 
 <details>
   <summary>Current OS</summary>
+  <details>
+  <summary>EndevourOS</summary>
+
+  ![Windows](.github/assets/EndevourOS.png)
+
+</details>
 
   <details>
   <summary>Ubuntu</summary>
