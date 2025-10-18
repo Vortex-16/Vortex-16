@@ -266,58 +266,6 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=A6FF16&width=640&lines=🌍+GDG+on+Campus+—+STCET;Operating+Systems+%26+Cloud+Engineering" alt="GDG Typing" />
 </p>
 
-<details>
-<summary>Basic on Google Cloud</summary>
-<p align="center">
-  <a href="https://www.credly.com/badges/0b8c67f8-b9f3-4eb0-8246-c41b3dbb374d">
-    <img src=".github/assets/BGC.png" alt="GDG on Campus — STCET" />
-  </a>
-</p>
-</details>
-<details>
-<summary>Smart Analytics</summary>
-<p align="center">
-  <a href="https://www.credly.com/badges/17c59cf4-3e5e-4cf6-a4cc-66cb0f98da14">
-    <img src=".github/assets/SA.png" alt="GDG on Campus — STCET" />
-  </a>
-</p>
-</details>
-<details>
-<summary>Data Mangement </summary>
-<p align="center">
-  <a href="https://www.credly.com/badges/cd755ee5-0f31-4328-8c55-510227833fd3">
-    <img src=".github/assets/DM.png" alt="GDG on Campus — STCET" />
-  </a>
-</p>
-</details>
-
-<details>
-<summary>Application Modernization</summary>
-<p align="center">
-  <a href="https://www.credly.com/badges/caf4bd19-f1d8-47bc-b2fc-132d6c66c688/public_url">
-    <img src=".github/assets/AM.png" alt="GDG on Campus — STCET" />
-  </a>
-</p>
-</details>
-<details>
-<summary>Detaplex</summary>
-<p align="center">
-  <a href="https://www.credly.com/badges/2de22f39-a93a-4628-9f2b-1b9c2eaa0851/linked_in_profile">
-    <img src=".github/assets/SAD.png" alt="GDG on Campus — STCET" />
-  </a>
-</p>
-</details>
-
-
-<details>
-<summary>Smart Analytics</summary>
-<p align="center">
-  <a href="https://www.credly.com/badges/0f83aae3-d566-451f-90d6-a0aeaec5e83a/public_url">
-    <img src=".github/assets/SAL.png" alt="GDG on Campus — STCET" />
-  </a>
-</p>
-</details>
-
 <p align="center"><small><b>Focused:</b> Operating Systems & Cloud</small></p>
 
 ---
