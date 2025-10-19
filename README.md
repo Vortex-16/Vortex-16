@@ -289,6 +289,7 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
 </div>
 
 [![Vikas’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Vortex-16&theme=transparent&show_icons=true&text_bold=false&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 <div align="center">
