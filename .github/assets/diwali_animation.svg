@@ -1,0 +1,209 @@
+<svg width="850" height="450" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 450">
+  <!-- 
+    Enhanced Festive Diwali Welcome Animation for GitHub README
+    Features:
+    - Darker, more atmospheric background
+    - Brighter, more varied fireworks
+    - Animated welcome text with Jai Shree Ram & Jai Mata Sita
+    - Animated flickering diyas
+    - Subtle animated Rangoli at the bottom
+  --><style>
+    /* Keyframe Animations */
+    @keyframes burst {
+      0% { transform: scale(0); opacity: 1; }
+      100% { transform: scale(2); opacity: 0; }
+    }
+
+    @keyframes flicker {
+      0%, 100% { opacity: 1; transform: scaleY(1); }
+      50% { opacity: 0.7; transform: scaleY(0.8); }
+    }
+
+    @keyframes shoot {
+      0% { transform: translateY(0) scale(0.5); opacity: 0.8; }
+      100% { transform: translateY(-250px) scale(1.2); opacity: 0; }
+    }
+    
+    @keyframes textGlow {
+      0%, 100% { text-shadow: 0 0 15px #FFD700, 0 0 25px #FFA500; fill: #FFF5E1; }
+      50% { text-shadow: 0 0 20px #FFC107, 0 0 30px #FF8C00; fill: #FFFFF0; }
+    }
+
+    @keyframes rangoliGlow {
+        0%, 100% { opacity: 0.8; }
+        50% { opacity: 1; }
+    }
+    
+    @keyframes starTwinkle {
+        0%, 100% { opacity: 0.5; transform: scale(1); }
+        50% { opacity: 1; transform: scale(1.2); }
+    }
+
+    /* Element Styling */
+    .cracker {
+      animation: burst 1.8s ease-out infinite;
+      transform-origin: center;
+    }
+    .rocket {
+      animation: shoot 2s ease-in infinite;
+    }
+    .flame {
+      animation: flicker 1.2s ease-in-out infinite;
+    }
+    .welcome-text, .prayer-text {
+        font-family: 'Segoe UI', Arial, sans-serif;
+        font-weight: bold;
+        text-anchor: middle;
+        animation: textGlow 2.5s ease-in-out infinite;
+    }
+    .welcome-text {
+        font-size: 56px;
+        fill: #FFD700;
+    }
+    .prayer-text {
+        font-size: 32px;
+        fill: #FFECB3;
+    }
+    .rangoli-element {
+        animation: rangoliGlow 3s ease-in-out infinite alternate;
+    }
+    .star {
+        animation: starTwinkle 2s ease-in-out infinite alternate;
+    }
+
+    /* Animation Delays for Variety */
+    #c1 { animation-delay: 0s; }
+    #c2 { animation-delay: 0.4s; }
+    #c3 { animation-delay: 0.8s; }
+    #c4 { animation-delay: 1.2s; }
+    #c5 { animation-delay: 1.6s; }
+    
+    #r1 { animation-delay: 0.2s; }
+    #r2 { animation-delay: 0.6s; }
+    #r3 { animation-delay: 1s; }
+    #r4 { animation-delay: 1.4s; }
+
+    #f1 { animation-delay: 0.1s; }
+    #f2 { animation-delay: 0.3s; }
+    #f3 { animation-delay: 0.5s; }
+    #f4 { animation-delay: 0.7s; }
+    #f5 { animation-delay: 0.9s; }
+    #f6 { animation-delay: 1.1s; }
+
+    #rg1 { animation-delay: 0s; }
+    #rg2 { animation-delay: 0.5s; }
+    #rg3 { animation-delay: 1s; }
+    #rg4 { animation-delay: 1.5s; }
+
+  </style>
+
+  <!-- Background: Deep Night Sky Gradient --><rect width="850" height="450" fill="url(#skyGradient)" />
+  <defs>
+    <radialGradient id="skyGradient" cx="50%" cy="100%" r="100%" fx="50%" fy="100%">
+      <stop offset="0%" style="stop-color:#1a2a3a" />
+      <stop offset="100%" style="stop-color:#000000" />
+    </radialGradient>
+  </defs>
+
+  <!-- Stars (subtle background element) --><circle cx="100" cy="80" r="2" fill="white" class="star" style="animation-delay:0.1s;"/>
+  <circle cx="700" cy="50" r="2.5" fill="white" class="star" style="animation-delay:0.7s;"/>
+  <circle cx="50" cy="200" r="1.5" fill="white" class="star" style="animation-delay:1.2s;"/>
+  <circle cx="780" cy="250" r="2" fill="white" class="star" style="animation-delay:0.4s;"/>
+  <circle cx="450" cy="30" r="3" fill="white" class="star" style="animation-delay:1.5s;"/>
+
+  <!-- Welcome Text --><text x="425" y="100" class="welcome-text">Happy Deepavali!</text>
+  <text x="425" y="145" class="prayer-text">Jai Shree Ram & Jai Mata Sita 🙏</text>
+
+  <!-- Fireworks (Crackers) - Brighter and More Varied --><!-- Burst 1 - Gold Glitter --><g id="c1" class="cracker" transform="translate(180, 200)">
+    <circle cx="0" cy="0" r="8" fill="#FFD700" />
+    <path d="M0-60 L0-25" stroke="#FFD700" stroke-width="4" />
+    <path d="M0 60 L0 25" stroke="#FFD700" stroke-width="4" />
+    <path d="M-60 0 L-25 0" stroke="#FFD700" stroke-width="4" />
+    <path d="M60 0 L25 0" stroke="#FFD700" stroke-width="4" />
+    <path d="M-42-42 L-18-18" stroke="#FFD700" stroke-width="4" />
+    <path d="M42 42 L18 18" stroke="#FFD700" stroke-width="4" />
+    <path d="M-42 42 L-18 18" stroke="#FFD700" stroke-width="4" />
+    <path d="M42-42 L18-18" stroke="#FFD700" stroke-width="4" />
+  </g>
+
+  <!-- Burst 2 - Red Comet --><g id="c2" class="cracker" transform="translate(680, 180)">
+    <circle cx="0" cy="0" r="10" fill="#FF4500" />
+    <circle cx="40" cy="0" r="5" fill="#FF6347" />
+    <circle cx="-40" cy="0" r="5" fill="#FF6347" />
+    <circle cx="0" cy="40" r="5" fill="#FF6347" />
+    <circle cx="0" cy="-40" r="5" fill="#FF6347" />
+    <circle cx="28" cy="28" r="5" fill="#FF6347" />
+    <circle cx="-28" cy="-28" r="5" fill="#FF6347" />
+    <circle cx="28" cy="-28" r="5" fill="#FF6347" />
+    <circle cx="-28" cy="28" r="5" fill="#FF6347" />
+  </g>
+  
+  <!-- Burst 3 - Green Peony --><g id="c3" class="cracker" transform="translate(425, 250)">
+    <circle cx="0" cy="0" r="8" fill="#32CD32" />
+    <path d="M0-50 L0-20" stroke="#98FB98" stroke-width="3" />
+    <path d="M0 50 L0 20" stroke="#98FB98" stroke-width="3" />
+    <path d="M-50 0 L-20 0" stroke="#98FB98" stroke-width="3" />
+    <path d="M50 0 L20 0" stroke="#98FB98" stroke-width="3" />
+  </g>
+  
+  <!-- Burst 4 - Blue Willow --><g id="c4" class="cracker" transform="translate(100, 100)">
+      <circle cx="0" cy="0" r="50" stroke="#1E90FF" stroke-width="3" fill="none" />
+      <circle cx="0" cy="0" r="25" stroke="#87CEEB" stroke-width="3" fill="none" />
+  </g>
+
+  <!-- Burst 5 - Silver Strobe --><g id="c5" class="cracker" transform="translate(750, 80)">
+    <circle cx="0" cy="0" r="6" fill="#F8F8F8" />
+    <line x1="-30" y1="0" x2="30" y2="0" stroke="#F8F8F8" stroke-width="2" />
+    <line x1="0" y1="-30" x2="0" y2="30" stroke="#F8F8F8" stroke-width="2" />
+    <line x1="-21" y1="-21" x2="21" y2="21" stroke="#F8F8F8" stroke-width="2" />
+    <line x1="-21" y1="21" x2="21" y2="-21" stroke="#F8F8F8" stroke-width="2" />
+  </g>
+
+
+  <!-- Rockets (shooting upwards before bursting) --><g transform="translate(80, 390)">
+    <circle id="r1" class="rocket" r="5" fill="#FFA500"/>
+  </g>
+  <g transform="translate(300, 390)">
+    <circle id="r2" class="rocket" r="5" fill="#FFD700"/>
+  </g>
+  <g transform="translate(550, 390)">
+    <circle id="r3" class="rocket" r="5" fill="#FF4500"/>
+  </g>
+  <g transform="translate(770, 390)">
+    <circle id="r4" class="rocket" r="5" fill="#ADD8E6"/>
+  </g>
+
+  <!-- Ground Line --><path d="M0 400 H850" stroke="#333" stroke-width="3" />
+  
+  <!-- Diyas --><!-- Diya 1 --><g transform="translate(150, 400)">
+    <path d="M-25 20 Q0 -10 25 20 Q0 50 -25 20 Z" fill="#CD853F"/>
+    <ellipse id="f1" class="flame" cx="0" cy="0" rx="8" ry="18" fill="#FFD700"/>
+  </g>
+  
+  <!-- Diya 2 --><g transform="translate(350, 400)">
+    <path d="M-25 20 Q0 -10 25 20 Q0 50 -25 20 Z" fill="#CD853F"/>
+    <ellipse id="f2" class="flame" cx="0" cy="0" rx="8" ry="18" fill="#FFD700"/>
+  </g>
+  
+  <!-- Diya 3 --><g transform="translate(550, 400)">
+    <path d="M-25 20 Q0 -10 25 20 Q0 50 -25 20 Z" fill="#CD853F"/>
+    <ellipse id="f3" class="flame" cx="0" cy="0" rx="8" ry="18" fill="#FFD700"/>
+  </g>
+  
+  <!-- Diya 4 --><g transform="translate(750, 400)">
+    <path d="M-25 20 Q0 -10 25 20 Q0 50 -25 20 Z" fill="#CD853F"/>
+    <ellipse id="f4" class="flame" cx="0" cy="0" rx="8" ry="18" fill="#FFD700"/>
+  </g>
+  
+  <!-- Rangoli Pattern (Animated) --><g transform="translate(425, 430)">
+    <circle id="rg1" class="rangoli-element" r="40" fill="none" stroke="#FF6347" stroke-width="4" style="animation-delay:0s;"/>
+    <circle id="rg2" class="rangoli-element" r="30" fill="none" stroke="#FFD700" stroke-width="4" style="animation-delay:0.5s;"/>
+    <circle id="rg3" class="rangoli-element" r="20" fill="none" stroke="#32CD32" stroke-width="4" style="animation-delay:1s;"/>
+    <circle id="rg4" class="rangoli-element" r="10" fill="#ADD8E6" style="animation-delay:1.5s;"/>
+    
+    <!-- Petals / Inner Design --><path d="M0 -35 Q-10 -10 -35 0 Q-10 10 0 35 Q10 10 35 0 Q10 -10 0 -35 Z" fill="none" stroke="#FF9933" stroke-width="3" opacity="0.7" class="rangoli-element" style="animation-delay:0.2s;"/>
+    <path d="M0 -25 Q-5 -5 -25 0 Q-5 5 0 25 Q5 5 25 0 Q5 -5 0 -25 Z" fill="none" stroke="#CCEEFF" stroke-width="2" opacity="0.7" class="rangoli-element" style="animation-delay:0.7s;"/>
+
+  </g>
+  
+</svg>
