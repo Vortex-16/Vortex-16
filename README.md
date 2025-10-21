@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=VIKASH%20GUPTA&fontSize=40&fontAlignY=40&animation=twinkling&fontColor=A6FF16" alt="Header"/>
 
   <!-- Typing animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=37&duration=3000&pause=1000&color=A6FF16&width=600&center=true&lines=Second+Year+CSE+Student;OS;Web+Developer;Open+Source+Contributor" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=37&duration=3000&pause=1000&color=A6FF16&width=600&center=true&lines=Second+Year+Student;OS;Web+Developer;Open+Source+Contributor" alt="Typing Animation" />
 </h1>
 
 ---
