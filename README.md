@@ -1,12 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF9933&center=true&vCenter=true&width=600&lines=%E2%9C%A8+HAPPY+DIWALI+CELEBRATION+%E2%9C%A8;%F0%9F%99%8F+Jai+Shree+Ram+%F0%9F%99%8F;%F0%9F%99%8F+Jai+Mata+Sita+%F0%9F%99%8F;H+A+P+P+Y+D+I+W+A+L+I" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=138808&center=true&vCenter=true&width=500&lines=May+this+Diwali+bring+you%3A;%E2%9C%A8+Prosperity+%26+Wealth;%F0%9F%99%8F+Peace+%26+Harmony;%F0%9F%92%96+Joy+%26+Love;%F0%9F%8F%86+Success+%26+Victory" alt="Typing SVG" />
-</div>
-
-
 ![Vikash Gupta Ison sheild](.github/assets/HomePage.png)
 <!-- Animated Header with Gradient Text -->
 <h1 align="center">
