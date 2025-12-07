@@ -22,7 +22,7 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
 - ⚡ Fun fact: <b>I enjoy bowling and often use it as a metaphor for coding - aim, adjust, and strike!</b><br>
 - 🥇 <b>CodeFlow 2K25</b> <a href="https://certopus.com/c/b3ad40bfbc0e487fa38d85e63f1a6a1d"><img src="https://img.shields.io/badge/Winner-🥇-yellow" alt="Winner"></a><br>
 - 🌐 Projects blending software & AI <img src="https://img.shields.io/badge/Projects-15+-blue" alt="Projects"><br>
-- 🗃️ Total Repositories: 🔓31 Public, 🔒14 Private
+- 🗃️ Total Repositories: 🔓34 Public, 🔒16 Private
 </td>
 <td>
 <img src=".github/assets/chill-mario.gif" width="350" height="240" alt="Chill Mario">
