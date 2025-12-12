@@ -1,4 +1,4 @@
-![Vikash Gupta Ison sheild](.github/assets/HomePage.png)
+![Vikash Gupta Ison sheild](.github/assets/EndevourOS.png)
 <!-- Animated Header with Gradient Text -->
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=VIKASH%20GUPTA&fontSize=40&fontAlignY=40&animation=twinkling&fontColor=A6FF16" alt="Header"/>
