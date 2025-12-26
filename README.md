@@ -16,7 +16,7 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
 <table>
 <tr>
 <td>
-- 🌱 Currently mastering: <b>BlockChain !!</b><br>
+- 🌱 Currently mastering: <b>Arch Linux !!</b><br>
 - 💡 Interests: <b>Operating System</b><br>
 - 🎯 Goals: <b>Build impactful projects and collaborate with developers worldwide</b><br>
 - ⚡ Fun fact: <b>I enjoy bowling and often use it as a metaphor for coding - aim, adjust, and strike!</b><br>
