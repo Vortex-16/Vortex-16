@@ -39,7 +39,15 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
 
 <details>
   <summary>Current OS</summary>
+
   <details>
+  <summary>ArchLinux</summary>
+
+  ![Windows](.github/assets/archLinux.jpeg)
+
+</details>
+  <details>
+    
   <summary>EndevourOS</summary>
 
   ![Windows](.github/assets/EndevourOS.png)
