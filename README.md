@@ -1,4 +1,4 @@
-![Vikash Gupta Ison sheild](.github/assets/EndevourOS.png)
+![Vikash Gupta Ison sheild](.github/assets/ArchLinux.jpeg)
 <!-- Animated Header with Gradient Text -->
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=VIKASH%20GUPTA&fontSize=40&fontAlignY=40&animation=twinkling&fontColor=A6FF16" alt="Header"/>
@@ -43,7 +43,7 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
   <details>
   <summary>ArchLinux</summary>
 
-  ![Windows](.github/assets/archLinux.jpeg)
+  ![Windows](.github/assets/ArchLinux.jpeg)
 
 </details>
   <details>
