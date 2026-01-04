@@ -62,6 +62,13 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
 </details>
 
 <details>
+  <summary>PoP OS</summary>
+
+  ![Windows](.github/assets/PopOS.png)
+
+</details>
+
+<details>
   <summary>Windows</summary>
 
   ![Windows](.github/assets/Windows.png)
