@@ -275,20 +275,7 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
 
 ---
 
-### 🌐 GDG on Campus — STCET
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=A6FF16&width=640&lines=🌍+GDG+on+Campus+—+STCET;Operating+Systems+%26+Cloud+Engineering" alt="GDG Typing" />
-</p>
-
-<p align="center"><small><b>Focused:</b> Operating Systems & Cloud</small></p>
-
----
-
----
-
 📧 **Team Contact:** [alpha4coders@gmail.com](mailto:alpha4coders@gmail.com)  
-📸 [Instagram – @alphacodersstcet](https://www.instagram.com/alphacodersstcet/)
 
 ---
 
