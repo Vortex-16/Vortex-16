@@ -115,6 +115,15 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
   ![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white) 
   ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 </details>
+
+<details>
+  <summary>📊 DevTrack</summary>
+  
+  AI-powered developer growth platform that combines GitHub analytics, learning streaks, and intelligent insights to showcase consistency, real-world progress, and engineering maturity—beyond traditional portfolios.  
+  🔗 [Live Demo](https://devtrack-pwkj.onrender.com/)  
+  ![AI](https://img.shields.io/badge/AI-Powered-FF6F00?logo=ai&logoColor=white)
+  ![GitHub API](https://img.shields.io/badge/GitHub-API-181717?logo=github&logoColor=white)
+</details>
 </summary>
 
 ---
