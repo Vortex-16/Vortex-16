@@ -41,7 +41,13 @@ I'm a passionate second-year Computer Science student from West Bengal, India, s
   <summary>Current OS</summary>
 
   <details>
-  <summary>ArchLinux</summary>
+  <summary>Arch Craft</summary>
+
+  ![Windows](.github/assets/ArchCraft.png)
+
+</details>
+<details>
+  <summary>Arch</summary>
 
   ![Windows](.github/assets/ArchLinux.jpeg)
 
