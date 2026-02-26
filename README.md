@@ -290,9 +290,6 @@ I'm a passionate Computer Science student from West Bengal, India, specializing 
 
 ---
 
-📧 **Team Contact:** [alpha4coders@gmail.com](mailto:alpha4coders@gmail.com)  
-
----
 
 ### 🐍 Contribution Snake
 <div align="center">
