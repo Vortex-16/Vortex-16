@@ -1,312 +1,94 @@
-![Vikash Gupta Ison sheild](.github/assets/ArchCraft.png)
-<!-- Animated Header with Gradient Text -->
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=VIKASH%20GUPTA&fontSize=40&fontAlignY=40&animation=twinkling&fontColor=A6FF16" alt="Header"/>
-
-  <!-- Typing animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=37&duration=3000&pause=1000&color=A6FF16&width=850&center=true&lines=B.Tech+CSE+Student;Hackathon+Addict;CodeFlow+2K25+Winner+(SREY);SIH+2025+Builder;10x+Hackathon+Finalist;Shell+%7C+Linux+%7C+Systems;Future+OS+Developer;MERN+Stack+Engineer;Vibe+Engineer" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0a0a0a&height=250&section=header&text=VIKASH%20GUPTA&fontSize=60&fontAlignY=40&animation=twinkling&fontColor=A6FF16" alt="Header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A6FF16&width=850&center=true&lines=B.Tech+CSE+@+STCET;Full-Stack+Vibe+Engineer;10x+Hackathon+Finalist;Arch+Linux+Enthusiast;Building+the+Future+of+OS" alt="Typing Animation" />
 </h1>
 
----
-
-### 🚀 About Me
-
-I'm a passionate Computer Science student from West Bengal, India, specializing in Operating System and UI design. I love creating beautiful, functional interfaces and contributing to open-source projects.
-
-<table>
-<tr>
-<td>
-- 🌱 Currently mastering: <b>Arch Linux !!</b><br>
-- 💡 Interests: <b>Operating System</b><br>
-- 🎯 Goals: <b>Build impactful projects and collaborate with developers worldwide</b><br>
-- ⚡ Fun fact: <b>I enjoy bowling and often use it as a metaphor for coding - aim, adjust, and strike!</b><br>
-- 🥇 <b>CodeFlow 2K25</b> <a href="https://certopus.com/c/b3ad40bfbc0e487fa38d85e63f1a6a1d"><img src="https://img.shields.io/badge/Winner-🥇-yellow" alt="Winner"></a><br>
-- 🌐 Projects blending software & AI <img src="https://img.shields.io/badge/Projects-15+-blue" alt="Projects"><br>
-- 🗃️ Total Repositories: 🔓42 Public, 🔒18 Private
-</td>
-<td>
-<img src=".github/assets/chill-mario.gif" width="350" height="240" alt="Chill Mario">
-</td>
-</tr>
-</table>
-
-
-
----
-
-# OS 💻
-
-
-<details>
-  <summary>Current OS</summary>
-
-  <details>
-  <summary>Arch Craft</summary>
-
-  ![Windows](.github/assets/ArchCraft.png)
-
-</details>
-<details>
-  <summary>Arch</summary>
-
-  ![Windows](.github/assets/ArchLinux.jpeg)
-
-</details>
-  <details>
-    
-  <summary>EndevourOS</summary>
-
-  ![Windows](.github/assets/EndevourOS.png)
-
-</details>
-
-  <details>
-  <summary>Ubuntu</summary>
-
-  ![Ubuntu](.github/assets/Ubuntu.png)
-
-</details>
-
-<details>
-  <summary>PoP OS</summary>
-
-  ![Windows](.github/assets/PopOS.png)
-
-</details>
-
-<details>
-  <summary>Windows</summary>
-
-  ![Windows](.github/assets/Windows.png)
-
-</details>
-
-
-</details>
-
-
----
-
-## 🧠 Notable Builds
-
-<summary>
-<details>
-  <summary>🌾 Pragati Path</summary>
-  
-  AI crop advisor with image disease detection & multilingual chatbot.  
-  ![TensorFlow.js](https://img.shields.io/badge/TF.js-orange?logo=tensorflow&logoColor=white) 
-  ![Gemini API](https://img.shields.io/badge/Gemini-API-4285F4?logo=google&logoColor=white)
-</details>
-
-<details>
-  <summary>💥 Código / CodeBattle</summary>
-  
-  Live 1v1 code duel platform with real-time leaderboard & AI hints.  
-  ![Socket.IO](https://img.shields.io/badge/Socket.IO-black?logo=socketdotio&logoColor=white) 
-  ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-</details>
-
-<details>
-  <summary>🤝 Alpha Chat</summary>
-  
-  Live chat for devs with code snippet sharing + filters.  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) 
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-</details>
-
-<details>
-  <summary>👥 Alpha Coders</summary>
-  
-  Team showcase, AI code helper, & dev chatroom.  
-  ![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white) 
-  ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-</details>
-
-<details>
-  <summary>📊 DevTrack</summary>
-  
-  AI-powered developer growth platform that combines GitHub analytics, learning streaks, and intelligent insights to showcase consistency, real-world progress, and engineering maturity—beyond traditional portfolios.  
-  🔗 [Live Demo](https://devtrack-pwkj.onrender.com/)  
-  ![AI](https://img.shields.io/badge/AI-Powered-FF6F00?logo=ai&logoColor=white)
-  ![GitHub API](https://img.shields.io/badge/GitHub-API-181717?logo=github&logoColor=white)
-</details>
-</summary>
-
----
-
-
-<!-- ## 🏆 Hackathon Achievements  
-
-<div align="center">
-  <a href="https://certopus.com/c/b3ad40bfbc0e487fa38d85e63f1a6a1d" target="_blank">
-    <img src="https://img.shields.io/badge/CodeFlow_2K25-Hackathon_Winner-brightgreen?style=for-the-badge&logo=hackclub&logoColor=white" />
-  </a>
-</div> -->
-
-<!-- --- -->
-
-### 🛠️ Tech Stack
-
-#### Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-
-
-#### Dev !!
-<p align="left">
-  <img src="https://img.shields.io/badge/MERN-Stack-0A0A0A?style=for-the-badge&logoColor=white" alt="MERN Stack" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Kolkata-India-A6FF16?style=flat-square&logo=googlemaps&logoColor=black" />
+  <img src="https://img.shields.io/badge/CodeFlow_2K25-Winner-yellow?style=flat-square&logo=google&logoColor=black" />
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-white?style=flat-square&logo=github&logoColor=black" />
 </p>
 
-<!-- #### ☁️ Deployment
-<p align="left">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p> -->
+---
+
+### ⚡ Quick Fetch
+```json
+{
+  "status": "Currently mastering Kernel development",
+  "ide": "Neovim / VS Code (Glass Theme)",
+  "distro": "ArchCraft (Bspwm/Sway)",
+  "vibe": "Minimalist, efficient, and slightly over-engineered"
+}
+````
+
+-----
+
+### 🛠️ The Arsenal
+
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Languages** | `C` `C++` `Java` `Python` `JavaScript` `TypeScript` |
+| **Full-Stack** | `React.js` `Next.js` `Node.js` `Express` `MongoDB` |
+| **Systems** | `Linux` `Bash` `Web3` `Docker` |
+| **Design** | `Figma` `Glassmorphism` `TailwindCSS` |
+
+-----
 
 ---
 
-### 📜 Certifications
-
-<details>
-  <summary>🎓 View Certifications</summary>
-  <div align="center">
-    <a href="https://www.sololearn.com/certificates/CC-5FGBA17C" target="_blank">
-      <img src="https://img.shields.io/badge/Java-Certified-orange?style=for-the-badge&logo=java" alt="Java Certificate">
-    </a>
-    <a href="https://www.sololearn.com/certificates/CC-DNE7TQVC" target="_blank">
-      <img src="https://img.shields.io/badge/C++-Certified-blue?style=for-the-badge&logo=c%2B%2B" alt="C++ Certificate">
-    </a>
-    <a href="https://api2.sololearn.com/v2/certificates/CC-WE3LZMJN/image/png?t=638778043204501570" target="_blank">
-      <img src="https://img.shields.io/badge/C-Certified-9cf?style=for-the-badge&logo=c" alt="C Certificate">
-    </a>
-    <a href="https://freecodecamp.org/certification/VikashKumarGupta/responsive-web-design" target="_blank">
-      <img src="https://img.shields.io/badge/Web_Design-Certified-ff69b4?style=for-the-badge&logo=freecodecamp" alt="Web Design Certificate">
-    </a>
-    <a href="https://www.freecodecamp.org/certification/vikashkumargupta/javascript-algorithms-and-data-structures-v8" target="_blank">
-      <img src="https://img.shields.io/badge/JavaScript_Algorithms_&_DS-Certified-yellow?style=for-the-badge&logo=javascript" alt="JS Algorithms Certificate">
-    </a>
-    <a href="https://drive.google.com/file/d/1p_K90Jp9vyuogyGRcvdm_Uz7kk4FGlbl/view" target="_blank">
-      <img src="https://img.shields.io/badge/IIT%20KGP-Web_Dev_Summer_Camp-blue?style=for-the-badge" alt="IIT KGP Web Dev Summer Camp">
-    </a>
-    <a href="https://certificate.hack2skill.com/user/aidayideasubmission/2025H2S06AID-I11008" target="_blank">
-      <img src="https://img.shields.io/badge/Hack2Skill-Certificate-00BFFF?style=for-the-badge" alt="Hack2Skill Certificate">
-    </a>
-  </div>
-</details>
-
-
----
-
-### 🧠 Competitive Programming
-
-<div align="center">
-  <a href="https://www.hackerrank.com/profile/vortex16" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
-  </a>
-  <a href="https://leetcode.com/u/Vortex-16/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white">
-  </a>
-</div>
-
----
-
-### 🤝 Connect With Me
-
-<div align="center">
-  <a href="https://in.linkedin.com/in/vikash-gupta-16devlop/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/gupta.16.vikash/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://x.com/GUPTA16VIKASH" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  <a href="mailto:vikash9c35@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
-
----
-
-### ☕ Support Me
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/VikashG" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-yellow?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Me A Coffee">
-  </a>
-</div>
-
----
-
-### 📊 GitHub Stats
-
+### 🚀 Featured Builds
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Vortex-16&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=00e7ff&text_color=ffffff&icon_color=00e7ff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Vortex-16&show_icons=true&theme=default&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vortex-16&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  </picture>
+| 📊 [DevTrack](https://devtrack-pwkj.onrender.com/) | 📚 [Arynox LLM](Arynox-llm.onrender.com) |
+| :--- | :--- |
+| AI-powered developer growth dashboard tracking engineering maturity. | AI-Powered Socratic RAG Tutort College Based Control. |
+| `Node.js` `Groq AI` `GitHub API` | `CHROMA` `Groq API` `React` |
 
-  <!-- Streak Stats -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Vortex-16&include_all_commits=true&hide_border=true&background=000000&ring=00e7ff&fire=00e7ff&currStreakNum=ffffff&currStreakLabel=00e7ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff&card_width=495">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Vortex-16&theme=default&hide_border=true">
-    <img src="https://streak-stats.demolab.com/?user=Vortex-16&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </picture>
-
-  <!-- Top Languages -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vortex-16&layout=compact&hide_border=true&bg_color=000000&title_color=00e7ff&text_color=ffffff&icon_color=00e7ff&rand=20250829">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vortex-16&layout=compact&theme=default&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vortex-16&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </picture>
-
-  <!-- Activity Graph -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Vortex-16&theme=github-dark&hide_border=true&area=true&bg_color=1a1a1a">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Vortex-16&theme=github-light&hide_border=true&area=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vortex-16&theme=github-dark&hide_border=true&area=true&bg_color=1a1a1a" width="90%" alt="Contribution Graph" />
-  </picture>
+| 🚮 [Punarchakra](https://punarchakra.vercel.app) | 💬 [Alpha Chats](https://alpha-chats.vercel.app/) |
+| :--- | :--- |
+| Smart web-based platform that transforms e-waste into value. | Developer-First Design, Code Syntax Highlighting |
+| `Next.js` `Leafelet` `MongoDB` | `Node.js` `Socket.io` `MongoDB` |
 
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🐧 The OS Laboratory
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Vortex-16&theme=onedark&margin-w=10&margin-h=10">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Vortex-16&theme=flat&margin-w=10&margin-h=10">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vortex-16&theme=flat&margin-w=10&margin-h=10" width="100%" alt="GitHub Trophies" />
-</picture>
+> **"Distro hopping is just a quest for the perfect config."**
+
+  * **Current Daily:** `ArchCraft` (Minimal, Glassy, Aesthetic)
+  * **Previous Lab Rats:** `Arch`, `EndeavourOS`, `Pop!_OS`, `Ubuntu`
+  * **Legacy:** `Windows` (Only on laptop)
+
+-----
+
+### 🧠 Engineering Stats
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vortex-16&show_icons=true&theme=radical&bg_color=0a0a0a&title_color=A6FF16&text_color=ffffff&icon_color=A6FF16&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vortex-16&layout=compact&theme=radical&bg_color=0a0a0a&title_color=A6FF16&text_color=ffffff&icon_color=A6FF16&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vortex-16&theme=github-dark-promo&hide_border=true&bg_color=0a0a0a&color=A6FF16" />
+</p>
 
 ---
 
+### 🤝 Let's Connect
 
----
+<p align="center">
+  <a href="https://in.linkedin.com/in/vikash-gupta-16devlop/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/GUPTA16VIKASH"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:vikash9c35@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-
-### 🐍 Contribution Snake
-<div align="center">
-  <a href="https://github.com/Platane/snk">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vortex-16/Vortex-16/output/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vortex-16/Vortex-16/output/github-snake.svg" />
-      <img width="100%" alt="GitHub Snake Contribution Animation" src="https://raw.githubusercontent.com/Vortex-16/Vortex-16/output/github-snake-dark.svg" />
-    </picture>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/VikashG">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
-</div>
-
-[![Vikas’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Vortex-16&theme=transparent&show_icons=true&text_bold=false&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
-
----
+</p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vortex-16&style=flat-square&color=green" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Vortex-16&style=flat-square&color=A6FF16" alt="Profile Views">
 </div>
-
