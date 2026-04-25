@@ -44,10 +44,15 @@
 | AI-powered developer growth dashboard tracking engineering maturity. | AI-Powered Socratic RAG Tutort College Based Control. |
 | `Node.js` `Groq AI` `GitHub API` | `CHROMA` `Groq API` `React` |
 
-| 🚮 [Punarchakra](https://punarchakra.vercel.app) | 💬 [Alpha Chats](https://alpha-chats.vercel.app/) |
+| 🚮 [Punarchakra](https://punarchakra.vercel.app) | 💬 [Alpha Chats](https://alphachat-v2.vercel.app) |
 | :--- | :--- |
 | Smart web-based platform that transforms e-waste into value. | Developer-First Design, Code Syntax Highlighting |
-| `Next.js` `Leafelet` `MongoDB` | `Node.js` `Socket.io` `MongoDB` |
+| `Next.js` `Leafelet` `MongoDB` | `Next.js` `Socket.io` `MongoDB` |
+
+|  ▣ [QR Code](https://vortex-16.github.io/qr-code/) | 
+| :--- |
+| Instant QR code generation. |
+| `HTML` `css` `js` |
 
 </div>
 
