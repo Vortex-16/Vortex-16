@@ -15,8 +15,8 @@
 ```json
 {
   "status": "Currently mastering Kernel development",
-  "ide": "Neovim / VS Code (Glass Theme)",
-  "distro": "ArchCraft (Bspwm/Sway)",
+  "ide": "Neovim && Code OSS && VS Code",
+  "distro": "ArchCraft (Bspwm)",
   "vibe": "Minimalist, efficient, and slightly over-engineered"
 }
 ````
@@ -27,10 +27,10 @@
 
 | **Category** | **Technologies** |
 | :--- | :--- |
-| **Languages** | `C` `C++` `Java` `Python` `JavaScript` `TypeScript` |
+| **Languages** | `C` `Java` `Python` `JavaScript` `TypeScript` `C++`|
 | **Full-Stack** | `React.js` `Next.js` `Node.js` `Express` `MongoDB` |
 | **Systems** | `Linux` `Bash` `Web3` `Docker` |
-| **Design** | `Figma` `Glassmorphism` `TailwindCSS` |
+| **Design** | `Glassmorphism` `TailwindCSS` |
 
 -----
 
