@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Kolkata-India-A6FF16?style=flat-square&logo=googlemaps&logoColor=black" />
   <img src="https://img.shields.io/badge/CodeFlow_2K25-Winner-yellow?style=flat-square&logo=google&logoColor=black" />
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-white?style=flat-square&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-Advanced-white?style=flat-square&logo=github&logoColor=black" />
 </p>
 
 ---
