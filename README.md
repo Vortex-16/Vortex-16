@@ -36,6 +36,16 @@
 
 ---
 
+### 🧪 Currently Building
+
+- 🐧 Building a custom Operating System from scratch
+- ⚡ Developing AI-powered developer tools
+- 📱 Exploring React Native + modern mobile UI systems
+- 🔒 Learning low-level systems, kernels, and memory management
+- 🌐 Building real-time collaborative platforms
+
+---
+
 ### 🚀 Featured Builds
 <div align="center">
 
