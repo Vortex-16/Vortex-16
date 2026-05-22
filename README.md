@@ -34,8 +34,6 @@
 
 -----
 
----
-
 ### 🧪 Currently Building
 
 - 🐧 Building a custom Operating System from scratch
@@ -70,11 +68,17 @@
 
 ### 🐧 The OS Laboratory
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vortex-16/Vortex-16/main/.github/assets/ArchCraft.png" width="85%" alt="ArchCraft Setup"/>
+</p>
+
 > **"Distro hopping is just a quest for the perfect config."**
 
-  * **Current Daily:** `ArchCraft` (Minimal, Glassy, Aesthetic)
-  * **Previous Lab Rats:** `Arch`, `EndeavourOS`, `Pop!_OS`, `Ubuntu`
-  * **Legacy:** `Windows` (Only on laptop)
+- **Current Daily:** `ArchCraft` (Minimal, Glassy, Aesthetic)
+- **WM Setup:** `bspwm + picom + polybar`
+- **Terminal Stack:** `kitty` `zsh` `fastfetch`
+- **Previous Lab Rats:** `Arch`, `EndeavourOS`, `Pop!_OS`, `Ubuntu`
+- **Legacy:** `Windows` (Only on laptop)
 
 -----
 
