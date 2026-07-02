@@ -4,9 +4,11 @@
 </h1>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Google%20Solution%20Challenge%202026-Top%20106%20Team-34A853?style=flat-square&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Kolkata-India-A6FF16?style=flat-square&logo=googlemaps&logoColor=black" />
   <img src="https://img.shields.io/badge/CodeFlow_2K25-Winner-yellow?style=flat-square&logo=google&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-Advanced-white?style=flat-square&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-Daily%20Driver-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
 </p>
 
 ---
@@ -14,10 +16,24 @@
 ### ⚡ Quick Fetch
 ```json
 {
-  "status": "Currently mastering Kernel development",
-  "ide": "Neovim && Code OSS && VS Code",
-  "distro": "ArchCraft (Bspwm)",
-  "vibe": "Minimalist, efficient, and slightly over-engineered"
+  "focus": [
+    "Operating Systems",
+    "Artificial Intelligence",
+    "Developer Experience"
+  ],
+  "currently_building": [
+    "DevTrack",
+    "VAni",
+    "Custom Operating System"
+  ],
+  "editor": "Neovim + VS Code",
+  "distro": "ArchCraft (bspwm)",
+  "interests": [
+    "Systems",
+    "AI",
+    "Open Source",
+    "Cloud"
+  ]
 }
 ````
 
@@ -47,20 +63,20 @@
 ### 🚀 Featured Builds
 <div align="center">
 
-| 📊 [DevTrack](https://devtrack-pwkj.onrender.com/) | 📚 [Arynox LLM](Arynox-llm.onrender.com) |
+| 📊 [DevTrack](https://devtrack-pwkj.onrender.com/) | 🏥 [VAni](https://github.com/Vortex-16/VAni/releases/download/v1.0.0/VAni.apk) |
 | :--- | :--- |
-| AI-powered developer growth dashboard tracking engineering maturity. | AI-Powered Socratic RAG Tutort College Based Control. |
-| `Node.js` `Groq AI` `GitHub API` | `CHROMA` `Groq API` `React` |
+| AI-powered developer analytics platform that tracks GitHub activity, identifies inactive projects, and helps developers improve engineering consistency. | AI-powered voice-first healthcare companion with multilingual assistance, prescription OCR, medication reminders, caregiver support, and emergency features. |
+| `React` `Node.js` `Firebase` `GitHub API` `AI` | `React Native` `Expo` `Node.js` `PostgreSQL` `Gemini AI` |
 
-| 🚮 [Punarchakra](https://punarchakra.vercel.app) | 💬 [Alpha Chats](https://alphachat-v2.vercel.app) |
+| 📚 [Arynox LLM](https://Arynox-llm.onrender.com) | 📰 [NewsAI](https://your-newsai-link.com) |
 | :--- | :--- |
-| Smart web-based platform that transforms e-waste into value. | Developer-First Design, Code Syntax Highlighting |
-| `Next.js` `Leafelet` `MongoDB` | `Next.js` `Socket.io` `MongoDB` |
+| AI-powered Socratic RAG tutor for college students with contextual learning and document retrieval. | Full-stack AI news dashboard that delivers real-time news with Gemini-generated summaries and personalized reading experience. |
+| `React` `Groq` `ChromaDB` `RAG` | `React` `Node.js` `MongoDB` `JWT` `Gemini AI` |
 
-|  ▣ [QR Code](https://vortex-16.github.io/qr-code/) | 
+| ♻️ [Punarchakra](https://punarchakra.vercel.app) |
 | :--- |
-| Instant QR code generation. |
-| `HTML` `css` `js` |
+| Reward-based e-waste recycling platform promoting sustainable disposal through technology-driven solutions. |
+| `Next.js` `TypeScript` `Leaflet` |
 
 </div>
 
