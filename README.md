@@ -80,7 +80,67 @@
 
 </div>
 
+-----
+<details>
+<summary><h3>🎨 Frontend Showcase</h3></summary>
+
+<br>
+
+> A collection of production-ready interfaces, experimental portfolios, event platforms, and community-driven web experiences.
+
+<div align="center">
+
+| 🌾 [PragatiPath](https://pragatipath.onrender.com/)                                               | 💻 [STCET Coding Cell](https://stcet-coding-cell.onrender.com/)                                                        |
+| :------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------- |
+| E-learning platform designed for farmers with an accessible and user-focused learning experience. | Minimal and modern official website for the college coding community, focused on clarity and developer-centric design. |
+| `Responsive UI` `Education` `Modern Web`                                                          | `Minimal UI` `Community Platform` `Responsive Design`                                                                  |
+
+| 🎮 [TechBaithak](https://stcet-coding-cell-techbaithak.netlify.app/)                          | ⚡ [Developer Portfolio](https://vikash.is-a.dev/)                                                   |
+| :-------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- |
+| Gamified coding community experience with an interactive interface and playful visual system. | Personal developer portfolio showcasing projects, skills, achievements, and engineering experience. |
+| `Gamified UI` `Interactive Design` `Frontend`                                                 | `Portfolio` `Responsive UI` `Modern Design`                                                         |
+
+| 🐧 [VikashOS](https://vikashos.netlify.app/)                                                                     | 🧚 [Fairy Portfolio](https://vikash-fairy.netlify.app/)                                                |
+| :--------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------- |
+| Arch Linux-inspired portfolio that transforms a developer profile into an operating-system-style web experience. | Experimental modern portfolio focused on GSAP-powered motion, transitions, and immersive interactions. |
+| `Arch Linux UI` `OS Experience` `Terminal Design`                                                                | `GSAP` `Motion Design` `Creative Frontend`                                                             |
+
+| 🎓 [SREY 2K26](https://srey2k26.vercel.app/)                                                                | 🏆 [CodeFlow](https://codeflow-srey.stcet.ac.in/)                                                               |
+| :---------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------- |
+| Official college tech-fest website designed for event discovery, announcements, and participant engagement. | Official college hackathon website built to present the competition, event information, and participation flow. |
+| `Event Platform` `Responsive UI` `Modern Web`                                                               | `Hackathon` `Event UI` `Responsive Design`                                                                      |
+
+</div>
+
+</details>
+
 ---
+
+<details>
+<summary><h3>💼 Client Work</h3></summary>
+
+<br>
+
+> Real-world products built for organizations and businesses with a focus on usability, maintainability, and practical impact.
+
+<div align="center">
+
+| 🏥 [Maa Janki Hospital](https://maa-janki-hospital-dr-amrit.vercel.app/)                                                                          | 🥻 [Shreya Saree](https://shreya-saree.netlify.app/)                                                                   |
+| :------------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------- |
+| Hospital management and digital presence platform built for a healthcare client, focused on service accessibility and patient-facing information. | Product showcase platform for a retail client, designed to support regular product updates and easy catalog discovery. |
+| `Healthcare` `Client Project` `Management System`                                                                                                 | `Product Showcase` `Client Project` `Responsive UI`                                                                    |
+
+</div>
+
+</details>
+
+<br>
+
+<p align="center">
+  <i>From minimal interfaces to gamified experiences and OS-inspired portfolios — I build interfaces around the product, not around a template.</i>
+</p>
+
+-----
 
 ### 🐧 The OS Laboratory
 
