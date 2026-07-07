@@ -9,8 +9,15 @@
   <img src="https://img.shields.io/badge/CodeFlow_2K25-Winner-yellow?style=flat-square&logo=google&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-Advanced-white?style=flat-square&logo=github&logoColor=black" />
   <img src="https://img.shields.io/badge/Arch%20Linux-Daily%20Driver-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
-</p>
 
+  <a href="https://leetcode.com/u/Vortex-16/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/vortex16">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=flat-square&logo=hackerrank&logoColor=black" />
+  </a>
+</p>
 ---
 
 ### ⚡ Quick Fetch
