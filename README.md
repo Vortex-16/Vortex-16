@@ -168,8 +168,8 @@
 
 ### 🧠 Engineering Stats
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vortex-16&show_icons=true&theme=radical&bg_color=0a0a0a&title_color=A6FF16&text_color=ffffff&icon_color=A6FF16&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vortex-16&layout=compact&theme=radical&bg_color=0a0a0a&title_color=A6FF16&text_color=ffffff&icon_color=A6FF16&hide_border=true" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Vortex-16&rank_icon=percentile&custom_title=Vortex%20Public%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=maroongold" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=Vortex-16&layout=pie&langs_count=10&theme=gruvbox_light" />
 </p>
 
 <p align="center">
