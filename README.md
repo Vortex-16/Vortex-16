@@ -1,6 +1,9 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0a0a0a&height=250&section=header&text=VIKASH%20GUPTA&fontSize=60&fontAlignY=40&animation=twinkling&fontColor=A6FF16" alt="Header"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A6FF16&width=850&center=true&lines=B.Tech+CSE+@+STCET;Full-Stack+Vibe+Engineer;10x+Hackathon+Finalist;Arch+Linux+Enthusiast;Building+the+Future+of+OS" alt="Typing Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="light.svg">
+    <img alt="Vikash Gupta --live Banner" src="dark.svg" width="100%">
+  </picture>
 </h1>
 
 <p align="center">
