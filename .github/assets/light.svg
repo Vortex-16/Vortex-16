@@ -7,7 +7,7 @@
       }
       .live-dot {
         animation: pulse-live 1.8s cubic-bezier(0.4, 0, 0.6, 1) infinite;
-        transform-origin: 1020px 90px;
+        transform-origin: 975px 90px;
       }
       @keyframes portrait-drift {
         0%, 16.6% { transform: translate(0px, 0px); opacity: 1; }
@@ -55,14 +55,14 @@
 
   <!-- Pulsing Nothing Red LIVE Badge -->
   <g class="live-badge">
-    <circle class="live-dot" cx="1020" cy="90" r="5" fill="#E52712"/>
-    <text x="1032" y="94" font-family="'Fira Code', monospace" font-size="12" font-weight="700" fill="#E52712">LIVE</text>
+    <circle class="live-dot" cx="975" cy="90" r="5" fill="#E52712"/>
+    <text x="987" y="94" font-family="'Fira Code', monospace" font-size="12" font-weight="700" fill="#E52712">LIVE</text>
   </g>
 
   <!-- Nothing Red Pill with Handle -->
-  <rect x="1075" y="78" width="60" height="22" rx="11" fill="#E52712" opacity="0.15"/>
-  <rect x="1075" y="78" width="60" height="22" rx="11" fill="none" stroke="#E52712" stroke-width="1" opacity="0.6"/>
-  <text x="1105" y="93" font-family="'Fira Code', monospace" font-size="12" font-weight="700" fill="#E52712" text-anchor="middle">@Vortex-16</text>
+  <rect x="1035" y="78" width="100" height="22" rx="11" fill="#E52712" opacity="0.15"/>
+  <rect x="1035" y="78" width="100" height="22" rx="11" fill="none" stroke="#E52712" stroke-width="1" opacity="0.6"/>
+  <text x="1085" y="93" font-family="'Fira Code', monospace" font-size="12" font-weight="700" fill="#E52712" text-anchor="middle">@Vortex-16</text>
 
   <!-- PORTRAIT LAYER (Layer 1: White/Black Dot Matrix) -->
   <g class="intro-layer">
@@ -2610,7 +2610,7 @@
 <g class="info-row">
   <text x="478" y="304" font-family="'Fira Code', 'Cascadia Code', monospace" font-size="14" font-weight="600" fill="#E52712">Core.Lang</text>
   <line x1="569.2" y1="300" x2="765.2" y2="300" stroke="#E52712" stroke-width="1" stroke-dasharray="2 4" opacity="0.5"/>
-  <text x="1130" y="304" font-family="'Fira Code', 'Cascadia Code', monospace" font-size="14" fill="#09090B" text-anchor="end" textLength="353" lengthAdjust="spacingAndGlyphs">C • C++ • Python • JavaScript • TypeScript</text>
+  <text x="1130" y="304" font-family="'Fira Code', 'Cascadia Code', monospace" font-size="14" fill="#09090B" text-anchor="end" textLength="353" lengthAdjust="spacingAndGlyphs">C • Java • Python • JavaScript • TypeScript</text>
 </g>
 <g class="info-row">
   <text x="478" y="332" font-family="'Fira Code', 'Cascadia Code', monospace" font-size="14" font-weight="600" fill="#E52712">Core.Frontend</text>

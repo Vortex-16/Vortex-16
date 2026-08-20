@@ -1,8 +1,8 @@
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="light.svg">
-    <img alt="Vikash Gupta --live Banner" src="dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset=".github/assets/light.svg">
+    <img alt="Vikash Gupta --live Banner" src=".github/assets/dark.svg" width="100%">
   </picture>
 </h1>
 
