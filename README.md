@@ -170,14 +170,11 @@
 -----
 
 ### 🧠 Engineering Stats
-<p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Vortex-16&rank_icon=percentile&custom_title=Vortex%20Public%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=maroongold" />
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=Vortex-16&layout=pie&langs_count=10&theme=gruvbox_light" />
-</p>
+📊 GitHub Stats
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vortex-16&theme=github-dark-promo&hide_border=true&bg_color=0a0a0a&color=A6FF16" />
-</p>
+https://github-readme-stats.shion.dev/api?username=Vortex-16&theme=aura&hide_border=false&include_all_commits=true&count_private=true<br/>
+https://streak-stats.demolab.com/?user=Vortex-16&theme=aura&hide_border=false<br/>
+https://github-readme-stats.shion.dev/api/top-langs/?username=Vortex-16&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact
 
 ---
 
