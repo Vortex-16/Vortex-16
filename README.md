@@ -7,11 +7,17 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Google%20Solution%20Challenge%202026-Top%20106%20Team-34A853?style=flat-square&logo=google&logoColor=white" />
+ <a href="https://certificate.hack2skill.com/verify/2026H2S07SCBWAI-TH00277">
+    <img src="https://img.shields.io/badge/Google%20Solution%20Challenge%202026-Top%20106%20Team-34A853?style=flat-square&logo=google&logoColor=white" />
+  </a>
   <img src="https://img.shields.io/badge/Kolkata-India-A6FF16?style=flat-square&logo=googlemaps&logoColor=black" />
-  <img src="https://img.shields.io/badge/CodeFlow_2K25-Winner-yellow?style=flat-square&logo=google&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-Advanced-white?style=flat-square&logo=github&logoColor=black" />
-  <img src="https://img.shields.io/badge/Arch%20Linux-Daily%20Driver-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
+   <a href="https://certopus.com/c/b3ad40bfbc0e487fa38d85e63f1a6a1d">
+    <img src="https://img.shields.io/badge/SREY-Certificate-4285F4?style=flat-square&logo=google-scholar&logoColor=white" />
+  </a>
+<a href="https://www.instagram.com/stories/highlights/17960975343009953/">
+    <img src="https://img.shields.io/badge/Arch%20Linux-Daily%20Driver-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
+</a>
 
   <a href="https://leetcode.com/u/Vortex-16/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
