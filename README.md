@@ -13,7 +13,8 @@
   <img src="https://img.shields.io/badge/Kolkata-India-A6FF16?style=flat-square&logo=googlemaps&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-Advanced-white?style=flat-square&logo=github&logoColor=black" />
    <a href="https://certopus.com/c/b3ad40bfbc0e487fa38d85e63f1a6a1d">
-    <img src="https://img.shields.io/badge/SREY-Certificate-4285F4?style=flat-square&logo=google-scholar&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodeFlow-2K25_Winner-4285F4?style=flat-square&logo=google-scholar&logoColor=white"
+ />
   </a>
 <a href="https://www.instagram.com/stories/highlights/17960975343009953/">
     <img src="https://img.shields.io/badge/Arch%20Linux-Daily%20Driver-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
