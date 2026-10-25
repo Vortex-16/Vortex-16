@@ -1,2 +1,3 @@
 generate_banner.py*
 ./node_modules
+*.ps1
