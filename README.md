@@ -7,131 +7,110 @@
 </h1>
 
 <p align="center">
- <a href="https://certificate.hack2skill.com/verify/2026H2S07SCBWAI-TH00277">
-    <img src="https://img.shields.io/badge/Google%20Solution%20Challenge%202026-Top%20106%20Team-34A853?style=flat-square&logo=google&logoColor=white" />
+  <a href="https://certificate.hack2skill.com/verify/2026H2S07SCBWAI-TH00277">
+    <img src="https://img.shields.io/badge/Google%20Solution%20Challenge%20'26-Top%20106-1e1e2e?style=flat-square&logo=google&logoColor=34A853" />
   </a>
-  <img src="https://img.shields.io/badge/Kolkata-India-A6FF16?style=flat-square&logo=googlemaps&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-Advanced-white?style=flat-square&logo=github&logoColor=black" />
-   <a href="https://certopus.com/c/b3ad40bfbc0e487fa38d85e63f1a6a1d">
-    <img src="https://img.shields.io/badge/CodeFlow-2K25_Winner-4285F4?style=flat-square&logo=google-scholar&logoColor=white"
- />
+  <a href="https://certopus.com/c/b3ad40bfbc0e487fa38d85e63f1a6a1d">
+    <img src="https://img.shields.io/badge/CodeFlow%202K25-Winner-1e1e2e?style=flat-square&logo=google-scholar&logoColor=4285F4" />
   </a>
-<a href="https://www.instagram.com/stories/highlights/17960975343009953/">
-    <img src="https://img.shields.io/badge/Arch%20Linux-Daily%20Driver-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
-</a>
-
+  <a href="https://www.instagram.com/stories/highlights/17960975343009953/">
+    <img src="https://img.shields.io/badge/Daily%20Driver-Arch%20Linux-1e1e2e?style=flat-square&logo=arch-linux&logoColor=1793D1" />
+  </a>
   <a href="https://leetcode.com/u/Vortex-16/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-Vortex--16-1e1e2e?style=flat-square&logo=leetcode&logoColor=FFA116" />
   </a>
-
-  <a href="https://www.hackerrank.com/profile/vortex16">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=flat-square&logo=hackerrank&logoColor=black" />
-  </a>
-
   <a href="https://takeuforward.org/profile/vortex16">
-    <img src="https://img.shields.io/badge/Striver-Profile-0A66C2?style=flat-square&logo=github&logoColor=white" />
-</a>
-
+    <img src="https://img.shields.io/badge/Striver-vortex16-1e1e2e?style=flat-square&logo=github&logoColor=A6FF16" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Kolkata%2C%20IN-1e1e2e?style=flat-square&logo=googlemaps&logoColor=f38ba8" />
 </p>
-
------
-
-### ⚡ Quick Fetch
-```json
-{
-  "focus": [
-    "Operating Systems",
-    "Artificial Intelligence",
-    "Developer Experience"
-  ],
-  "currently_building": [
-    "DevTrack",
-    "VAni",
-    "Custom Operating System"
-  ],
-  "editor": "Neovim + VS Code",
-  "distro": "ArchCraft (bspwm)",
-  "interests": [
-    "Systems",
-    "AI",
-    "Open Source",
-    "Cloud"
-  ]
-}
-````
-
------
-
-### 🛠️ The Arsenal
-
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Languages** | `C` `Java` `Python` `JavaScript` `TypeScript` `C++`|
-| **Full-Stack** | `React.js` `Next.js` `Node.js` `Express` `MongoDB` |
-| **Systems** | `Linux` `Bash` `Web3` `Docker` |
-| **Design** | `Glassmorphism` `TailwindCSS` |
-
------
-
-### 🧪 Currently Building
-
-- 🐧 Building a custom Operating System from scratch
-- ⚡ Developing AI-powered developer tools
-- 📱 Exploring React Native + modern mobile UI systems
-- 🔒 Learning low-level systems, kernels, and memory management
-- 🌐 Building real-time collaborative platforms
 
 ---
 
-### 🚀 Featured Builds
+```ansi
+[1;36m      /\[0m           [1;37mvikash[0m@[1;36marchcraft[0m
+[1;36m     /  \[0m          --------------------
+[1;36m    /\   \[0m         [1;34mOS[0m       :: Arch Linux x86_64
+[1;36m   /      \[0m        [1;34mKernel[0m   :: Linux 6.x (zen)
+[1;36m  /   ,,   \[0m       [1;34mWM[0m       :: bspwm + picom + polybar
+[1;36m /   |  |  -\[0m      [1;34mTerminal[0m :: kitty (zsh + starship)
+[1;36m/_-''    ''-_\[0m     [1;34mEditor[0m   :: Neovim + VS Code
+                    [1;34mAcademic[0m :: B.Tech in CSE / IT
+                    [1;34mCore[0m     :: Systems Architecture, OS Dev, Compilers
+                    [1;34mBuilding[0m :: Custom x86_64 OS, DevTrack, VAni
+```
+
+---
+
+### Stack & Tooling
+
+```bash
+[systems & low-level]   C  •  C++  •  x86_64 Assembly  •  Linux Kernel  •  Bash
+[full-stack]            TypeScript  •  React  •  Next.js  •  Node.js  •  Express  •  PostgreSQL
+[infrastructure]        Docker  •  Git  •  Firebase  •  Linux SysAdmin
+[environment]           ArchCraft  •  bspwm  •  Neovim  •  Kitty  •  Polybar
+```
+
+---
+
+### Current Focus
+
+- Developing a bare-metal custom Operating System from scratch (`x86_64`, bootloader, memory paging)
+- Low-level kernel internals, process scheduling, and concurrency mechanics
+- Building high-performance developer analytics & voice-first AI companions
+- Exploring modern memory safety patterns and systems programming
+
+---
+
+### Selected Engineering Projects
+
 <div align="center">
 
-| 📊 [DevTrack](https://devtrack-pwkj.onrender.com/) | 🏥 [VAni](https://github.com/Vortex-16/VAni/releases/download/v1.0.0/VAni.apk) |
-| :--- | :--- |
-| AI-powered developer analytics platform that tracks GitHub activity, identifies inactive projects, and helps developers improve engineering consistency. | AI-powered voice-first healthcare companion with multilingual assistance, prescription OCR, medication reminders, caregiver support, and emergency features. |
-| `React` `Node.js` `Firebase` `GitHub API` `AI` | `React Native` `Expo` `Node.js` `PostgreSQL` `Gemini AI` |
-
-| 📚 [Arynox LLM](https://Arynox-llm.onrender.com) | 📰 [NewsAI](https://your-newsai-link.com) |
-| :--- | :--- |
-| AI-powered Socratic RAG tutor for college students with contextual learning and document retrieval. | Full-stack AI news dashboard that delivers real-time news with Gemini-generated summaries and personalized reading experience. |
-| `React` `Groq` `ChromaDB` `RAG` | `React` `Node.js` `MongoDB` `JWT` `Gemini AI` |
-
-| ♻️ [Punarchakra](https://punarchakra.vercel.app) |
-| :--- |
-| Reward-based e-waste recycling platform promoting sustainable disposal through technology-driven solutions. |
-| `Next.js` `TypeScript` `Leaflet` |
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| [**DevTrack**](https://devtrack-pwkj.onrender.com/) | Developer analytics engine tracking repository velocity, stale branches, and engineering habits. | `React` `Node.js` `Firebase` `GitHub API` |
+| [**VAni**](https://github.com/Vortex-16/VAni/releases/download/v1.0.0/VAni.apk) | Voice-first healthcare companion with prescription OCR, automated reminders, and multilingual triage. | `React Native` `Expo` `Node.js` `PostgreSQL` `Gemini` |
+| [**Arynox LLM**](https://Arynox-llm.onrender.com) | Contextual Socratic RAG tutor for computer science students with document chunking & vector retrieval. | `React` `Groq` `ChromaDB` `LangChain` |
+| [**NewsAI**](https://your-newsai-link.com) | Real-time news pipeline delivering instant, structured summaries using automated LLM ingestion. | `React` `Node.js` `MongoDB` `JWT` `Gemini` |
+| [**Punarchakra**](https://punarchakra.vercel.app) | Circular economy e-waste logistics platform incentivizing sustainable electronics recycling. | `Next.js` `TypeScript` `Leaflet` |
 
 </div>
 
------
+---
+
 <details>
-<summary><h3>🎨 Frontend Showcase</h3></summary>
+<summary><b>Web Interfaces & Community Platforms (Click to expand)</b></summary>
 
 <br>
 
-> A collection of production-ready interfaces, experimental portfolios, event platforms, and community-driven web experiences.
+<div align="center">
+
+| Platform | Domain / Scope | Tech |
+| :--- | :--- | :--- |
+| [**VikashOS**](https://vikashos.netlify.app/) | Arch Linux-inspired web desktop recreating window management and shell semantics. | `Desktop Web UI` `Terminal UX` |
+| [**STCET Coding Cell**](https://stcet-coding-cell.onrender.com/) | Official community platform for competitive programmers and tech symposiums. | `Community Platform` `Responsive Web` |
+| [**SREY 2K26**](https://srey2k26.vercel.app/) | High-concurrency college tech-fest portal for registrations and scheduling. | `Event Infrastructure` `Next.js` |
+| [**CodeFlow**](https://codeflow-srey.stcet.ac.in/) | Official hackathon portal handling team submissions, rules, and live tracking. | `Event Portal` `Web UI` |
+| [**PragatiPath**](https://pragatipath.onrender.com/) | Lightweight e-learning platform optimized for accessibility and low-bandwidth connections. | `Accessible UI` `EdTech` |
+| [**TechBaithak**](https://stcet-coding-cell-techbaithak.netlify.app/) | Interactive community space with gamified challenges and activity leaderboards. | `Gamified UX` `Frontend` |
+| [**Developer Portfolio**](https://vikash.is-a.dev/) | Personal space documenting engineering logs, hardware setups, and builds. | `Personal Site` `Modern UI` |
+| [**Fairy Portfolio**](https://vikash-fairy.netlify.app/) | Experimental motion-design web space powered by high-framerate GSAP transitions. | `GSAP` `Creative Frontend` |
+
+</div>
+
+</details>
+
+<details>
+<summary><b>Production & Client Systems (Click to expand)</b></summary>
+
+<br>
 
 <div align="center">
 
-| 🌾 [PragatiPath](https://pragatipath.onrender.com/)                                               | 💻 [STCET Coding Cell](https://stcet-coding-cell.onrender.com/)                                                        |
-| :------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------- |
-| E-learning platform designed for farmers with an accessible and user-focused learning experience. | Minimal and modern official website for the college coding community, focused on clarity and developer-centric design. |
-| `Responsive UI` `Education` `Modern Web`                                                          | `Minimal UI` `Community Platform` `Responsive Design`                                                                  |
-
-| 🎮 [TechBaithak](https://stcet-coding-cell-techbaithak.netlify.app/)                          | ⚡ [Developer Portfolio](https://vikash.is-a.dev/)                                                   |
-| :-------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- |
-| Gamified coding community experience with an interactive interface and playful visual system. | Personal developer portfolio showcasing projects, skills, achievements, and engineering experience. |
-| `Gamified UI` `Interactive Design` `Frontend`                                                 | `Portfolio` `Responsive UI` `Modern Design`                                                         |
-
-| 🐧 [VikashOS](https://vikashos.netlify.app/)                                                                     | 🧚 [Fairy Portfolio](https://vikash-fairy.netlify.app/)                                                |
-| :--------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------- |
-| Arch Linux-inspired portfolio that transforms a developer profile into an operating-system-style web experience. | Experimental modern portfolio focused on GSAP-powered motion, transitions, and immersive interactions. |
-| `Arch Linux UI` `OS Experience` `Terminal Design`                                                                | `GSAP` `Motion Design` `Creative Frontend`                                                             |
-
-| 🎓 [SREY 2K26](https://srey2k26.vercel.app/)                                                                | 🏆 [CodeFlow](https://codeflow-srey.stcet.ac.in/)                                                               |
-| :---------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------- |
-| Official college tech-fest website designed for event discovery, announcements, and participant engagement. | Official college hackathon website built to present the competition, event information, and participation flow. |
-| `Event Platform` `Responsive UI` `Modern Web`                                                               | `Hackathon` `Event UI` `Responsive Design`                                                                      |
+| Client / Product | Focus | Solution |
+| :--- | :--- | :--- |
+| [**Maa Janki Hospital**](https://maa-janki-hospital-dr-amrit.vercel.app/) | Healthcare Operations | Patient digital portal, directory services, and appointment workflows. |
+| [**Shreya Saree**](https://shreya-saree.netlify.app/) | Retail Catalog | Fast, mobile-first inventory showcase and inquiry channel for retail clients. |
 
 </div>
 
@@ -139,47 +118,17 @@
 
 ---
 
-<details>
-<summary><h3>💼 Client Work</h3></summary>
-
-<br>
-
-> Real-world products built for organizations and businesses with a focus on usability, maintainability, and practical impact.
-
-<div align="center">
-
-| 🏥 [Maa Janki Hospital](https://maa-janki-hospital-dr-amrit.vercel.app/)                                                                          | 🥻 [Shreya Saree](https://shreya-saree.netlify.app/)                                                                   |
-| :------------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------- |
-| Hospital management and digital presence platform built for a healthcare client, focused on service accessibility and patient-facing information. | Product showcase platform for a retail client, designed to support regular product updates and easy catalog discovery. |
-| `Healthcare` `Client Project` `Management System`                                                                                                 | `Product Showcase` `Client Project` `Responsive UI`                                                                    |
-
-</div>
-
-</details>
-
-<br>
+### Workstation & Environment
 
 <p align="center">
-  <i>From minimal interfaces to gamified experiences and OS-inspired portfolios — I build interfaces around the product, not around a template.</i>
+  <img src="https://raw.githubusercontent.com/Vortex-16/Vortex-16/main/.github/assets/ArchCraft.png" width="88%" alt="ArchCraft Setup"/>
 </p>
 
------
+```
+OS: ArchCraft (Linux 6.x) | WM: bspwm + picom + polybar | Terminal: kitty + zsh | Editor: Neovim
+```
 
-### 🐧 The OS Laboratory
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vortex-16/Vortex-16/main/.github/assets/ArchCraft.png" width="85%" alt="ArchCraft Setup"/>
-</p>
-
-> **"Distro hopping is just a quest for the perfect config."**
-
-- **Current Daily:** `ArchCraft` (Minimal, Glassy, Aesthetic)
-- **WM Setup:** `bspwm + picom + polybar`
-- **Terminal Stack:** `kitty` `zsh` `fastfetch`
-- **Previous Lab Rats:** `Arch`, `EndeavourOS`, `Pop!_OS`, `Ubuntu`
-- **Legacy:** `Windows` (Only on laptop)
-
------
+---
 
 ### 🧠 Engineering Stats
 
