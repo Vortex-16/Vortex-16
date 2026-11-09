@@ -1,4 +1,4 @@
-﻿<h1 align="center">
+<h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=".github/assets/dark.svg">
     <source media="(prefers-color-scheme: light)" srcset=".github/assets/light.svg">
@@ -45,10 +45,10 @@
 ### Stack & Tooling
 
 ```bash
-[systems & low-level]   C  â€¢  C++  â€¢  x86_64 Assembly  â€¢  Linux Kernel  â€¢  Bash
-[full-stack]            TypeScript  â€¢  React  â€¢  Next.js  â€¢  Node.js  â€¢  Express  â€¢  PostgreSQL
-[infrastructure]        Docker  â€¢  Git  â€¢  Firebase  â€¢  Linux SysAdmin
-[environment]           ArchCraft  â€¢  bspwm  â€¢  Neovim  â€¢  Kitty  â€¢  Polybar
+[systems & low-level]   C  •  C++  •  x86_64 Assembly  •  Linux Kernel  •  Bash
+[full-stack]            TypeScript  •  React  •  Next.js  •  Node.js  •  Express  •  PostgreSQL
+[infrastructure]        Docker  •  Git  •  Firebase  •  Linux SysAdmin
+[environment]           ArchCraft  •  bspwm  •  Neovim  •  Kitty  •  Polybar
 ```
 
 ---
@@ -130,14 +130,14 @@ OS: ArchCraft (Linux 6.x) | WM: bspwm + picom + polybar | Terminal: kitty + zsh 
 
 ---
 
-### ðŸ§  Engineering Stats
+### 🧠 Engineering Stats
 
 ![](https://ghstats.dev/api/card?username=Vortex-16&theme=gruvbox&hide_border=true&border_radius=50)<br/>
 ![](https://ghstats.dev/api/langs?username=Vortex-16&theme=sakura&hide_border=true&max_langs=12&layout=grid)
 
 ---
 
-### ðŸ¤ Let's Connect
+### 🤝 Let's Connect
 
 <p align="center">
   <a href="https://in.linkedin.com/in/vikash-gupta-16devlop/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
